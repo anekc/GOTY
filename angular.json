@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "graficos"
+    }
+  },
+  "defaultProject": "graficos",
+  "cli": {
+    "analytics": false
+  }
 }
